@@ -1,0 +1,21 @@
+.banner{
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: url(../../../assets/banner.jpg)
+}
+
+.hello {
+  width: 100%;
+  min-height: calc(100vh - 56px);
+  position: relative;
+}
+
+h1{
+  color: white;
+}
