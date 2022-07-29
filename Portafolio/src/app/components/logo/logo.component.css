@@ -4,13 +4,11 @@
     align-items: center;
 }
 
-.redes {
-    margin-right: 0,5em;
-}
-#logo {
-    width: 150px;
+.logo img {
+    width: 150px; height: auto;
 }
 
 img {
     width: 50px;
+    margin: 2px;
 }
